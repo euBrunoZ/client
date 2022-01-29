@@ -1,4 +1,5 @@
-# client
+# GG Krunker Client
+
 Krunker client with script loading.
 
 Initial commits brought from https://github.com/skidlamer/gg_krunker_client
