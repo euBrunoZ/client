@@ -29,9 +29,7 @@
     "@electron-forge/maker-zip": "6.0.0-beta.52",
     "dist": "^0.1.2",
     "electron": "^10.4.7",
-    "electron-wix-msi": "^3.2.0",
-    "npm": "^8.4.0",
-    "run": "^1.4.0"
+    "electron-wix-msi": "^3.2.0"
   },
   "config": {
     "forge": {
