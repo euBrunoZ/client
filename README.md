@@ -3,15 +3,15 @@ Krunker client with script loading.
 
 Initial commits brought from https://github.com/skidlamer/gg_krunker_client
 
-
 ## How to build?
+
 **Linux users**
 
 Step 1)
-`git clone https://github.com/DemigodKushal/gg-client-linux.git`
+`git clone https://github.com/y9x/client.git`
 
 Step 2)
-`cd gg-client-linux`
+`cd client`
 
 Step 3)
 `npm i`
@@ -19,10 +19,7 @@ Step 3)
 Step 4)
 `chmod +x build.sh && ./build.sh`
 
-Step 5)
-PROFIT
-
-**Windhoes users**
+**Windows users**
 
 Step 1) 
 `git clone https://github.com/y9x/client.git`
@@ -32,4 +29,3 @@ Step 2)
 
 Step 3)
 `run build.bat`
-
