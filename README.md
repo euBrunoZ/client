@@ -6,6 +6,7 @@ Initial commits brought from https://github.com/skidlamer/gg_krunker_client
 
 ## How to build?
 **Linux users**
+
 Step 1)
 `git clone https://github.com/DemigodKushal/gg-client-linux.git`
 
@@ -20,9 +21,11 @@ Step 4)
 
 Step 5)
 PROFIT
+
 **Windhoes users**
+
 Step 1) 
-`git clone https://github.com/DemigodKushal/gg-client-linux.git`
+`git clone https://github.com/y9x/client.git`
 
 Step 2) 
 `Open the folder where the repo was cloned`
